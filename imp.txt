@@ -1,0 +1,12 @@
+<!--<?php
+  function runMyFunction() {
+    echo 'Logging out';
+	session_destroy();
+	header("Location: login.php");
+die();
+  }
+
+  if (isset($_GET['hello'])) {
+    runMyFunction();
+  }
+?> -->
